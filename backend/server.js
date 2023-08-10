@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable no-console */
 const express = require('express');
 const colors = require('colors');
 const dotenv = require('dotenv').config();
